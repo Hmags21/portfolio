@@ -7,6 +7,7 @@ header{
     background-color:#83CAA0;
     display:flex;
     flex-wrap:nowrap;
+    justify-content:space-between;
     
     
 }
